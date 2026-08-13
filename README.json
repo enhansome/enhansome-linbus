@@ -1,0 +1,328 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LDF Parser",
+          "description": "Tool is able parse LIN Description Files, retrieve signal names and frames from them, as well as encoding messages using frame definitions and decoding them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T23:00:22Z",
+            "owner": "c4deszes",
+            "repo": "ldfparser",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LDF-Parser",
+          "description": "Parser for retrieving data from automotive Lin description files (LDF).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-12T18:49:36Z",
+            "owner": "TrippW",
+            "repo": "LDF-Parser",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NCF-Parser",
+          "description": "Parser for retrieving data from automotive Node Configuration Files (NCF).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-26T03:27:37Z",
+            "owner": "TrippW",
+            "repo": "NCF-Parser",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Parsers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "linbus",
+          "description": "Arduino based LINBUS stack and signal interceptor/injector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Eagle",
+            "last_commit": "2019-03-01T07:56:03Z",
+            "owner": "zapta",
+            "repo": "linbus",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinUSBConverter",
+          "description": "LIN to USB converter with LIN master support compatible with SLCAN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-15T05:06:59Z",
+            "owner": "uCAN-LIN",
+            "repo": "LinUSBConverter",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "budgetcan",
+          "description": "Firmware to support gs_usb on most STM32 devices with LIN bus support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-13T18:18:42Z",
+            "owner": "ryedwards",
+            "repo": "budgetcan-fw",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linbus-phat",
+          "description": "LIN Bus interface for Raspberry PI Zero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-01-11T01:17:10Z",
+            "owner": "cepr",
+            "repo": "linbus-phat",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Hardware"
+    },
+    {
+      "description": "SLLIN protocol - that is like slcan protocol for linux based OS.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sllin linux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-23T14:46:47Z",
+            "owner": "lin-bus",
+            "repo": "linux-lin",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sllin",
+          "description": "Linux driver for LIN interfaces (serial line qdisc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-02-02T08:48:59Z",
+            "owner": "sstiller",
+            "repo": "sllin",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "SLLIN protocol (like slcan)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LIN",
+          "description": "The LIN protocol implemented over Arduino APIs (Serial and Digital IO).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-01-23T10:44:49Z",
+            "owner": "gandrewstone",
+            "repo": "LIN",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macchina LIN",
+          "description": "Arduino library to add dual LIN support on SAM3X based boards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-01-29T00:04:22Z",
+            "owner": "macchina",
+            "repo": "LIN",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Volvo LIN bus reader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-12-25T23:11:34Z",
+            "owner": "laurynas",
+            "repo": "volvo_linbus",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-LIN",
+          "description": "Implementation of Local interconnect network in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-01T12:41:27Z",
+            "owner": "open-LIN",
+            "repo": "open-LIN-c",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32-LIN-Interface-Library",
+          "description": "LIN-Master functions (write and request LIN-Frames via hardware UART of an ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-07T20:18:23Z",
+            "owner": "mestrode",
+            "repo": "Lin-Interface-Library",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32-openLIN",
+          "description": "The open-LIN implementation on ESP32 based on ESP32-SoftwareLIN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-01T14:27:06Z",
+            "owner": "CW-B-W",
+            "repo": "ESP32-openLIN",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BMW Pierburg CWA400 waterpump LIN controller example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-31T15:17:24Z",
+            "owner": "brainiac27",
+            "repo": "cwa400_lin",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIN compiler",
+          "description": "LIN is a compiler (written in java) that will parse LIN Node capability and LIN description files and generate C source code that implements the LIN 2.2 spec for slave or master nodes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-07-06T01:28:06Z",
+            "owner": "PersonalTransport",
+            "repo": "LIN",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIN Nodes",
+          "description": "Firmware and PCB designs for various LIN network nodes intended for retrofitting older vehicles.",
+          "children": []
+        }
+      ],
+      "title": "unsorted"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Also might be useful this curated list",
+          "description": "of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-07T22:14:43Z",
+            "owner": "iDoka",
+            "repo": "awesome-canbus",
+            "stars": 3384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The another awesome list CAN ID collections",
+          "description": "also might be useful.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T13:39:28Z",
+            "owner": "iDoka",
+            "repo": "awesome-automotive-can-id",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Please follow this",
+          "description": "root-repo for lastest updates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-06T06:49:15Z",
+            "owner": "iDoka",
+            "repo": "awesome-linbus",
+            "stars": 245
+          }
+        }
+      ],
+      "title": "Footnotes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:58:33.677Z",
+    "original_repository": "iDoka/awesome-linbus",
+    "original_repository_sha": "0102a94185b0c25b8eec85e2d190daa4d6b70fe0",
+    "enhanced_repository": "enhansome/enhansome-linbus",
+    "enhanced_repository_description": null,
+    "title": "Awesome LIN Bus with stars"
+  }
+}
