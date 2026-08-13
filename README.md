@@ -49,8 +49,8 @@ This is a [LIN](http://en.wikipedia.org/wiki/Local_Interconnect_Network) protoco
 
 * [linbus](https://github.com/zapta/linbus) ⭐ 207 | 🐛 30 | 🌐 Eagle | 📅 2019-03-01 - Arduino based LINBUS stack and signal interceptor/injector.
 * [LinUSBConverter](https://github.com/uCAN-LIN/LinUSBConverter) ⭐ 91 | 🐛 10 | 🌐 C | 📅 2026-06-15 - LIN to USB converter with LIN master support compatible with SLCAN.
-* [budgetcan](https://github.com/ryedwards/budgetcan_fw#how-to-use-the-lin-driver) ⭐ 57 | 🐛 3 | 🌐 C | 📅 2026-06-13 - Firmware to support gs\_usb on most STM32 devices with LIN bus support.
 * [linbus-phat](https://github.com/cepr/linbus-phat) ⭐ 10 | 🐛 0 | 📅 2019-01-11 - LIN Bus interface for Raspberry PI Zero.
+* [budgetcan](https://github.com/ryedwards/budgetcan_fw#how-to-use-the-lin-driver) - Firmware to support gs\_usb on most STM32 devices with LIN bus support.
 
 ## SLLIN protocol (like slcan)
 
@@ -98,8 +98,8 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,384 | 🐛 4 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
-2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 974 | 🐛 0 | 📅 2026-08-12 also might be useful.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,398 | 🐛 5 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 975 | 🐛 0 | 📅 2026-08-12 also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 root-repo for lastest updates.
 
 <!--

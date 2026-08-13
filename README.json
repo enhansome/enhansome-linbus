@@ -81,20 +81,6 @@
         },
         {
           "node_type": "item",
-          "title": "budgetcan",
-          "description": "Firmware to support gs_usb on most STM32 devices with LIN bus support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-13T18:18:42Z",
-            "owner": "ryedwards",
-            "repo": "budgetcan-fw",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
           "title": "linbus-phat",
           "description": "LIN Bus interface for Raspberry PI Zero.",
           "children": [],
@@ -106,6 +92,12 @@
             "repo": "linbus-phat",
             "stars": 10
           }
+        },
+        {
+          "node_type": "item",
+          "title": "budgetcan",
+          "description": "Firmware to support gs_usb on most STM32 devices with LIN bus support.",
+          "children": []
         }
       ],
       "title": "Hardware"
@@ -282,7 +274,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3384
+            "stars": 3398
           }
         },
         {
@@ -296,7 +288,7 @@
             "last_commit": "2026-08-12T13:39:28Z",
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 974
+            "stars": 975
           }
         },
         {
@@ -318,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:58:33.677Z",
+    "last_updated": "2026-08-13T22:11:02.790Z",
     "original_repository": "iDoka/awesome-linbus",
     "original_repository_sha": "0102a94185b0c25b8eec85e2d190daa4d6b70fe0",
     "enhanced_repository": "enhansome/enhansome-linbus",
