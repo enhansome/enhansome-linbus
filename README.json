@@ -14,7 +14,7 @@
             "last_commit": "2025-12-09T23:00:22Z",
             "owner": "c4deszes",
             "repo": "ldfparser",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3413
+            "stars": 3420
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-12T13:39:28Z",
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 975
+            "stars": 977
           }
         },
         {
@@ -310,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:45:04.650Z",
+    "last_updated": "2026-08-16T21:44:43.076Z",
     "original_repository": "iDoka/awesome-linbus",
     "original_repository_sha": "0102a94185b0c25b8eec85e2d190daa4d6b70fe0",
     "enhanced_repository": "enhansome/enhansome-linbus",
