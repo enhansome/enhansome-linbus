@@ -274,7 +274,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3420
+            "stars": 3421
           }
         },
         {
@@ -310,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:50:26.511Z",
+    "last_updated": "2026-08-18T21:47:58.383Z",
     "original_repository": "iDoka/awesome-linbus",
     "original_repository_sha": "0102a94185b0c25b8eec85e2d190daa4d6b70fe0",
     "enhanced_repository": "enhansome/enhansome-linbus",
