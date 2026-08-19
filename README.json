@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292667521,
             "language": "Python",
             "last_commit": "2025-12-09T23:00:22Z",
             "owner": "c4deszes",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166420457,
             "language": "Python",
             "last_commit": "2020-09-12T18:49:36Z",
             "owner": "TrippW",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166733851,
             "language": "Python",
             "last_commit": "2019-01-26T03:27:37Z",
             "owner": "TrippW",
@@ -49,7 +52,7 @@
       "title": "Parsers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15560159,
             "language": "Eagle",
             "last_commit": "2019-03-01T07:56:03Z",
             "owner": "zapta",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121034228,
             "language": "C",
             "last_commit": "2026-06-15T05:06:59Z",
             "owner": "uCAN-LIN",
@@ -86,18 +91,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165156027,
             "language": null,
             "last_commit": "2019-01-11T01:17:10Z",
             "owner": "cepr",
             "repo": "linbus-phat",
             "stars": 10
           }
-        },
-        {
-          "node_type": "item",
-          "title": "budgetcan",
-          "description": "Firmware to support gs_usb on most STM32 devices with LIN bus support.",
-          "children": []
         }
       ],
       "title": "Hardware"
@@ -112,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57062680,
             "language": "C",
             "last_commit": "2026-03-23T14:46:47Z",
             "owner": "lin-bus",
@@ -126,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50845682,
             "language": "C",
             "last_commit": "2016-02-02T08:48:59Z",
             "owner": "sstiller",
@@ -137,7 +139,7 @@
       "title": "SLLIN protocol (like slcan)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -146,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2840605,
             "language": "C++",
             "last_commit": "2021-01-23T10:44:49Z",
             "owner": "gandrewstone",
@@ -160,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84507307,
             "language": "C++",
             "last_commit": "2019-01-29T00:04:22Z",
             "owner": "macchina",
@@ -174,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91720122,
             "language": "C++",
             "last_commit": "2020-12-25T23:11:34Z",
             "owner": "laurynas",
@@ -188,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121045719,
             "language": "C++",
             "last_commit": "2025-05-01T12:41:27Z",
             "owner": "open-LIN",
@@ -202,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 356371479,
             "language": "C++",
             "last_commit": "2026-02-07T20:18:23Z",
             "owner": "mestrode",
@@ -216,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671564565,
             "language": "C++",
             "last_commit": "2023-09-01T14:27:06Z",
             "owner": "CW-B-W",
@@ -230,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672733950,
             "language": "Python",
             "last_commit": "2023-07-31T15:17:24Z",
             "owner": "brainiac27",
@@ -244,24 +253,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44150092,
             "language": "Java",
             "last_commit": "2016-07-06T01:28:06Z",
             "owner": "PersonalTransport",
             "repo": "LIN",
             "stars": 10
           }
-        },
-        {
-          "node_type": "item",
-          "title": "LIN Nodes",
-          "description": "Firmware and PCB designs for various LIN network nodes intended for retrofitting older vehicles.",
-          "children": []
         }
       ],
       "title": "unsorted"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -270,11 +274,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313261022,
             "language": null,
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3421
+            "stars": 3420
           }
         },
         {
@@ -284,11 +289,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317634009,
             "language": null,
             "last_commit": "2026-08-12T13:39:28Z",
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 977
+            "stars": 976
           }
         },
         {
@@ -298,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344925173,
             "language": null,
             "last_commit": "2023-09-06T06:49:15Z",
             "owner": "iDoka",
@@ -310,8 +317,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:47:58.383Z",
+    "last_updated": "2026-08-19T12:40:39.174Z",
     "original_repository": "iDoka/awesome-linbus",
+    "original_repository_id": 344925173,
     "original_repository_sha": "0102a94185b0c25b8eec85e2d190daa4d6b70fe0",
     "enhanced_repository": "enhansome/enhansome-linbus",
     "enhanced_repository_description": null,
