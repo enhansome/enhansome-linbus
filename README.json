@@ -198,7 +198,7 @@
             "last_commit": "2025-05-01T12:41:27Z",
             "owner": "open-LIN",
             "repo": "open-LIN-c",
-            "stars": 90
+            "stars": 91
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3420
+            "stars": 3424
           }
         },
         {
@@ -317,7 +317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:50:57.889Z",
+    "last_updated": "2026-08-20T21:53:53.711Z",
     "original_repository": "iDoka/awesome-linbus",
     "original_repository_id": 344925173,
     "original_repository_sha": "0102a94185b0c25b8eec85e2d190daa4d6b70fe0",

@@ -68,7 +68,7 @@ SLLIN protocol - that is like slcan protocol for linux based OS.
 
 * [Volvo LIN bus reader](https://github.com/laurynas/volvo_linbus) ⭐ 110 | 🐛 6 | 🌐 C++ | 📅 2020-12-25
 
-* [open-LIN](https://github.com/open-LIN/open-LIN-c) ⭐ 90 | 🐛 2 | 🌐 C++ | 📅 2025-05-01 - Implementation of Local interconnect network in C.
+* [open-LIN](https://github.com/open-LIN/open-LIN-c) ⭐ 91 | 🐛 2 | 🌐 C++ | 📅 2025-05-01 - Implementation of Local interconnect network in C.
 
 * [ESP32-LIN-Interface-Library](https://github.com/mestrode/Lin-Interface-Library) ⭐ 47 | 🐛 2 | 🌐 C++ | 📅 2026-02-07 - LIN-Master functions (write and request LIN-Frames via hardware UART of an ESP32.
 
@@ -98,7 +98,7 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,420 | 🐛 6 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,424 | 🐛 6 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 976 | 🐛 0 | 📅 2026-08-12 also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 root-repo for lastest updates.
 
@@ -140,4 +140,4 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
