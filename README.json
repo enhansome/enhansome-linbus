@@ -5,6 +5,49 @@
       "items": [
         {
           "node_type": "item",
+          "title": "TSMaster",
+          "description": "Powerful open environment for automotive CAN and LIN bus monitoring, simulation, testing, diagnostics, calibration and so on (Closed source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 337257987,
+            "language": null,
+            "last_commit": "2026-07-07T09:05:35Z",
+            "owner": "TOSUN-Shanghai",
+            "repo": "TSMaster",
+            "stars": 424
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "linux-lin",
+              "description": "Linux kernel LIN bus support implemented as TTY line discipline for generic UART conrollers: Documentation; Paper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57062680,
+                "language": "C",
+                "last_commit": "2026-03-23T14:46:47Z",
+                "owner": "lin-bus",
+                "repo": "linux-lin",
+                "stars": 49
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Linux related"
+        }
+      ],
+      "title": "SW Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "LDF Parser",
           "description": "Tool is able parse LIN Description Files, retrieve signal names and frames from them, as well as encoding messages using frame definitions and decoding them.",
           "children": [],
@@ -317,7 +360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:45:25.706Z",
+    "last_updated": "2026-08-24T14:30:02.645Z",
     "original_repository": "iDoka/awesome-linbus",
     "original_repository_id": 344925173,
     "original_repository_sha": "0102a94185b0c25b8eec85e2d190daa4d6b70fe0",
