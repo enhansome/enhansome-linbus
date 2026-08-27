@@ -322,7 +322,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3431
+            "stars": 3432
           }
         },
         {
@@ -337,7 +337,7 @@
             "last_commit": "2026-08-12T13:39:28Z",
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 977
+            "stars": 978
           }
         },
         {
@@ -360,7 +360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:53:26.727Z",
+    "last_updated": "2026-08-27T00:57:32.170Z",
     "original_repository": "iDoka/awesome-linbus",
     "original_repository_id": 344925173,
     "original_repository_sha": "0102a94185b0c25b8eec85e2d190daa4d6b70fe0",
