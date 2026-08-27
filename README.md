@@ -41,7 +41,7 @@ This is a [LIN](http://en.wikipedia.org/wiki/Local_Interconnect_Network) protoco
 
 ## Parsers
 
-* [LDF Parser](https://github.com/c4deszes/ldfparser) ⭐ 87 | 🐛 7 | 🌐 Python | 📅 2025-12-09 - Tool is able parse LIN Description Files, retrieve signal names and frames from them, as well as encoding messages using frame definitions and decoding them.
+* [LDF Parser](https://github.com/c4deszes/ldfparser) ⭐ 88 | 🐛 7 | 🌐 Python | 📅 2025-12-09 - Tool is able parse LIN Description Files, retrieve signal names and frames from them, as well as encoding messages using frame definitions and decoding them.
 * [LDF-Parser](https://github.com/TrippW/LDF-Parser) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2020-09-12 - Parser for retrieving data from automotive Lin description files (LDF).
 * [NCF-Parser](https://github.com/TrippW/NCF-Parser) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2019-01-26 - Parser for retrieving data from automotive Node Configuration Files (NCF).
 
@@ -98,7 +98,7 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,432 | 🐛 6 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,433 | 🐛 6 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 978 | 🐛 0 | 📅 2026-08-12 also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 root-repo for lastest updates.
 

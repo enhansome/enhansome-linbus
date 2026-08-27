@@ -58,7 +58,7 @@
             "last_commit": "2025-12-09T23:00:22Z",
             "owner": "c4deszes",
             "repo": "ldfparser",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -322,7 +322,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3432
+            "stars": 3433
           }
         },
         {
@@ -360,9 +360,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:57:32.170Z",
-    "original_repository": "iDoka/awesome-linbus",
-    "original_repository_id": 344925173,
+    "last_updated": "2026-08-27T11:50:30.293Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 344925173,
+      "language": null,
+      "last_commit": "2023-09-06T06:49:15Z",
+      "owner": "iDoka",
+      "repo": "awesome-linbus",
+      "stars": 245
+    },
     "original_repository_sha": "0102a94185b0c25b8eec85e2d190daa4d6b70fe0",
     "enhanced_repository": "enhansome/enhansome-linbus",
     "enhanced_repository_description": null,
