@@ -15,8 +15,9 @@
             "last_commit": "2026-07-07T09:05:35Z",
             "owner": "TOSUN-Shanghai",
             "repo": "TSMaster",
-            "stars": 424
-          }
+            "stars": 425
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "children": [
@@ -33,7 +34,8 @@
                 "owner": "lin-bus",
                 "repo": "linux-lin",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T05:32:14.859Z"
             }
           ],
           "description": null,
@@ -59,7 +61,8 @@
             "owner": "c4deszes",
             "repo": "ldfparser",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "TrippW",
             "repo": "LDF-Parser",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -89,7 +93,8 @@
             "owner": "TrippW",
             "repo": "NCF-Parser",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         }
       ],
       "title": "Parsers"
@@ -110,7 +115,8 @@
             "owner": "zapta",
             "repo": "linbus",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -125,7 +131,8 @@
             "owner": "uCAN-LIN",
             "repo": "LinUSBConverter",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -140,7 +147,8 @@
             "owner": "cepr",
             "repo": "linbus-phat",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         }
       ],
       "title": "Hardware"
@@ -161,7 +169,8 @@
             "owner": "lin-bus",
             "repo": "linux-lin",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -176,7 +185,8 @@
             "owner": "sstiller",
             "repo": "sllin",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         }
       ],
       "title": "SLLIN protocol (like slcan)"
@@ -197,7 +207,8 @@
             "owner": "gandrewstone",
             "repo": "LIN",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -212,7 +223,8 @@
             "owner": "macchina",
             "repo": "LIN",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -227,7 +239,8 @@
             "owner": "laurynas",
             "repo": "volvo_linbus",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -242,7 +255,8 @@
             "owner": "open-LIN",
             "repo": "open-LIN-c",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -257,7 +271,8 @@
             "owner": "mestrode",
             "repo": "Lin-Interface-Library",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -272,7 +287,8 @@
             "owner": "CW-B-W",
             "repo": "ESP32-openLIN",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -287,7 +303,8 @@
             "owner": "brainiac27",
             "repo": "cwa400_lin",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -302,7 +319,8 @@
             "owner": "PersonalTransport",
             "repo": "LIN",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         }
       ],
       "title": "unsorted"
@@ -323,7 +341,8 @@
             "owner": "iDoka",
             "repo": "awesome-canbus",
             "stars": 3433
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -338,7 +357,8 @@
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         },
         {
           "node_type": "item",
@@ -353,14 +373,15 @@
             "owner": "iDoka",
             "repo": "awesome-linbus",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T05:32:14.859Z"
         }
       ],
       "title": "Footnotes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:30.293Z",
+    "last_updated": "2026-08-28T05:32:14.859Z",
     "original_repository_info": {
       "archived": false,
       "id": 344925173,
