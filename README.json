@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on. It supports all kinds of mainstream hardware such as TOSUN, Vector, IXXAT, PEAK, Kvaser, Intrepidcs, ZLG, CANable, CandleLight, cantact and so on. Free for research and education purpose for some features.",
+            "homepage": "http://www.tosunai.cn/",
             "id": 337257987,
             "language": null,
+            "license": "LGPL-2.1",
             "last_commit": "2026-07-07T09:05:35Z",
+            "open_issues": 85,
             "owner": "TOSUN-Shanghai",
             "repo": "TSMaster",
-            "stars": 425
+            "stars": 425,
+            "topics": [
+              "adas",
+              "automotive",
+              "bootloader",
+              "calibration",
+              "can",
+              "canable",
+              "candlelight",
+              "cantact",
+              "diagnostics",
+              "ethernet",
+              "intrepidcs",
+              "kvaser",
+              "lin",
+              "measurement",
+              "peak",
+              "simulation",
+              "test",
+              "tsmaster",
+              "vector",
+              "zlg"
+            ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -28,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linux kernel LIN bus support implemented as  TTY line discipline for generic UART conrollers, documentation https://github.com/lin-bus/linux-lin/wiki, based on https://github.com/lin-bus/linux-lin/wiki/sllin-rtlws14-paper.pdf, more CAN related projects http://canbus.pages.fel.cvut.cz/",
+                "homepage": "https://github.com/lin-bus/linux-lin/wiki",
                 "id": 57062680,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-03-23T14:46:47Z",
+                "open_issues": 11,
                 "owner": "lin-bus",
                 "repo": "linux-lin",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:14.859Z"
             }
@@ -55,12 +86,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LIN Description File parser written in Python",
+            "homepage": "https://c4deszes.github.io/ldfparser/",
             "id": 292667521,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-09T23:00:22Z",
+            "open_issues": 7,
             "owner": "c4deszes",
             "repo": "ldfparser",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "automotive",
+              "ldf",
+              "lin",
+              "lin-standards",
+              "parser",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -71,12 +114,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A parser for retrieving data from automotive Lin description files (LDF)",
+            "homepage": null,
             "id": 166420457,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-09-12T18:49:36Z",
+            "open_issues": 0,
             "owner": "TrippW",
             "repo": "LDF-Parser",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "automotive",
+              "ldf",
+              "lin",
+              "parser"
+            ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -87,12 +140,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A parser for retrieving data from automotive Node Configuration Files (NCF)",
+            "homepage": null,
             "id": 166733851,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-01-26T03:27:37Z",
+            "open_issues": 0,
             "owner": "TrippW",
             "repo": "NCF-Parser",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "automotive",
+              "can",
+              "lin",
+              "ncf",
+              "parser"
+            ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         }
@@ -109,12 +173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Arduino based LINBUS stack and signal interceptor/injector.",
+            "homepage": null,
             "id": 15560159,
             "language": "Eagle",
+            "license": null,
             "last_commit": "2019-03-01T07:56:03Z",
+            "open_issues": 30,
             "owner": "zapta",
             "repo": "linbus",
-            "stars": 207
+            "stars": 207,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -125,12 +194,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source USB ↔ LIN bus dongle. LIN 2.1 master / slave / monitor, optically isolated, SLCAN compatible — no proprietary drivers.",
+            "homepage": "https://ucandevices.github.io/ulc.html",
             "id": 121034228,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-15T05:06:59Z",
+            "open_issues": 10,
             "owner": "uCAN-LIN",
             "repo": "LinUSBConverter",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "automotive",
+              "j2602",
+              "lin",
+              "lin-bus",
+              "open-hardware"
+            ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -141,12 +221,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LIN Bus interface for Raspberry PI Zero",
+            "homepage": null,
             "id": 165156027,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2019-01-11T01:17:10Z",
+            "open_issues": 0,
             "owner": "cepr",
             "repo": "linbus-phat",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "linbus",
+              "raspberry-pi-zero",
+              "raspberry-pi-zero-w"
+            ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         }
@@ -163,12 +252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux kernel LIN bus support implemented as  TTY line discipline for generic UART conrollers, documentation https://github.com/lin-bus/linux-lin/wiki, based on https://github.com/lin-bus/linux-lin/wiki/sllin-rtlws14-paper.pdf, more CAN related projects http://canbus.pages.fel.cvut.cz/",
+            "homepage": "https://github.com/lin-bus/linux-lin/wiki",
             "id": 57062680,
             "language": "C",
+            "license": null,
             "last_commit": "2026-03-23T14:46:47Z",
+            "open_issues": 11,
             "owner": "lin-bus",
             "repo": "linux-lin",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -179,12 +273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux driver for LIN interfaces (serial line qdisc). Fork based on git://rtime.felk.cvut.cz/linux-lin.git",
+            "homepage": null,
             "id": 50845682,
             "language": "C",
+            "license": null,
             "last_commit": "2016-02-02T08:48:59Z",
+            "open_issues": 0,
             "owner": "sstiller",
             "repo": "sllin",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         }
@@ -201,12 +300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The LIN protocol implemented over Arduino APIs (Serial and Digital IO)",
+            "homepage": null,
             "id": 2840605,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-01-23T10:44:49Z",
+            "open_issues": 11,
             "owner": "gandrewstone",
             "repo": "LIN",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -217,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arduino library to add dual LIN support on SAM3X based boards with a TJA1021/TJA1027 transceiver",
+            "homepage": null,
             "id": 84507307,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2019-01-29T00:04:22Z",
+            "open_issues": 8,
             "owner": "macchina",
             "repo": "LIN",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -233,12 +342,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Volvo LIN bus reader",
+            "homepage": null,
             "id": 91720122,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-12-25T23:11:34Z",
+            "open_issues": 6,
             "owner": "laurynas",
             "repo": "volvo_linbus",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "arduino",
+              "linbus",
+              "mcp2004",
+              "volvo"
+            ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -249,12 +368,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Local interconnect network in c",
+            "homepage": null,
             "id": 121045719,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-05-01T12:41:27Z",
+            "open_issues": 2,
             "owner": "open-LIN",
             "repo": "open-LIN-c",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "automotive",
+              "lin",
+              "local-interconnect-network"
+            ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -265,12 +393,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provide LIN-Master functions (write and request LIN-Frames via hardware UART",
+            "homepage": null,
             "id": 356371479,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-02-07T20:18:23Z",
+            "open_issues": 2,
             "owner": "mestrode",
             "repo": "Lin-Interface-Library",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "ibs-sensor-library",
+              "lin",
+              "lin-bus",
+              "lin-frames",
+              "lin-interface",
+              "transceiver"
+            ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -281,12 +421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "open-LIN-c implementation on ESP32",
+            "homepage": null,
             "id": 671564565,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-09-01T14:27:06Z",
+            "open_issues": 2,
             "owner": "CW-B-W",
             "repo": "ESP32-openLIN",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -297,12 +442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LIN Example for CWA400",
+            "homepage": null,
             "id": 672733950,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-31T15:17:24Z",
+            "open_issues": 0,
             "owner": "brainiac27",
             "repo": "cwa400_lin",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -313,12 +463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LIN Implementation",
+            "homepage": null,
             "id": 44150092,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-07-06T01:28:06Z",
+            "open_issues": 20,
             "owner": "PersonalTransport",
             "repo": "LIN",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         }
@@ -335,12 +490,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
+            "homepage": null,
             "id": 313261022,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-07T22:14:43Z",
+            "open_issues": 6,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3434
+            "stars": 3434,
+            "topics": [
+              "automotive",
+              "automotive-security",
+              "awesome",
+              "awesome-list",
+              "bus-monitoring",
+              "can",
+              "can-bus",
+              "can-fd",
+              "canbus",
+              "canutils",
+              "car-hacking",
+              "elm327",
+              "embedded",
+              "j2534",
+              "lawicel",
+              "logger",
+              "obd2",
+              "slcan",
+              "sniffer",
+              "socketcan"
+            ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -351,12 +532,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful  for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
+            "homepage": null,
             "id": 317634009,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-12T13:39:28Z",
+            "open_issues": 0,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 978
+            "stars": 978,
+            "topics": [
+              "automotive",
+              "automotive-security",
+              "awesome",
+              "awesome-list",
+              "bus-monitoring",
+              "can",
+              "canbus",
+              "canutils",
+              "car",
+              "car-hacking",
+              "elm327",
+              "embedded",
+              "j1962",
+              "logger",
+              "obd2",
+              "slcan",
+              "sniffer",
+              "socketcan",
+              "vehicular-networks"
+            ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         },
@@ -367,12 +573,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
+            "homepage": null,
             "id": 344925173,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-09-06T06:49:15Z",
+            "open_issues": 1,
             "owner": "iDoka",
             "repo": "awesome-linbus",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "arduino",
+              "automotive",
+              "awesome",
+              "awesome-list",
+              "car-hacking",
+              "embedded",
+              "iso17987",
+              "iso9141",
+              "lawicel",
+              "ldf",
+              "lin",
+              "lin-bus",
+              "lin-utils",
+              "local-interconnect-network",
+              "logger",
+              "raspberry-pi",
+              "slcan",
+              "socketlin",
+              "stm32"
+            ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
         }
@@ -381,15 +612,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:14:57.590Z",
+    "last_updated": "2026-08-29T04:49:09.681Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
+      "homepage": null,
       "id": 344925173,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-09-06T06:49:15Z",
+      "open_issues": 1,
       "owner": "iDoka",
       "repo": "awesome-linbus",
-      "stars": 245
+      "stars": 245,
+      "topics": [
+        "arduino",
+        "automotive",
+        "awesome",
+        "awesome-list",
+        "car-hacking",
+        "embedded",
+        "iso17987",
+        "iso9141",
+        "lawicel",
+        "ldf",
+        "lin",
+        "lin-bus",
+        "lin-utils",
+        "local-interconnect-network",
+        "logger",
+        "raspberry-pi",
+        "slcan",
+        "socketlin",
+        "stm32"
+      ]
     },
     "original_repository_sha": "0102a94185b0c25b8eec85e2d190daa4d6b70fe0",
     "enhanced_repository": "enhansome/enhansome-linbus",
