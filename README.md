@@ -74,7 +74,7 @@ SLLIN protocol - that is like slcan protocol for linux based OS.
 
 * [ESP32-openLIN](https://github.com/CW-B-W/ESP32-openLIN) ⭐ 21 | 🐛 2 | 🌐 C++ | 📅 2023-09-01 - The **open-LIN** implementation on ESP32 based on [ESP32-SoftwareLIN](https://github.com/CW-B-W/ESP32-SoftwareLIN) ⭐ 32 | 🐛 4 | 🌐 C++ | 📅 2023-09-24.
 
-* [BMW Pierburg CWA400 waterpump LIN controller example](https://github.com/brainiac27/cwa400_lin) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2023-07-31
+* [BMW Pierburg CWA400 waterpump LIN controller example](https://github.com/brainiac27/cwa400_lin) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-07-31
 
 * [LIN compiler](https://github.com/PersonalTransport/LIN) ⭐ 10 | 🐛 20 | 🌐 Java | 📅 2016-07-06 - LIN is a compiler (written in java) that will parse LIN Node capability and LIN description files and generate C source code that implements the LIN 2.2 spec for slave or master nodes.
 
@@ -98,7 +98,7 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,433 | 🐛 6 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,434 | 🐛 6 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 978 | 🐛 0 | 📅 2026-08-12 also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 root-repo for lastest updates.
 
@@ -140,4 +140,4 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
