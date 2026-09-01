@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T23:41:43.556Z",
+    "last_updated": "2026-09-01T00:43:28.739Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
