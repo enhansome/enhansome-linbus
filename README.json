@@ -19,7 +19,7 @@
             "open_issues": 85,
             "owner": "TOSUN-Shanghai",
             "repo": "TSMaster",
-            "stars": 427,
+            "stars": 429,
             "topics": [
               "adas",
               "automotive",
@@ -63,7 +63,7 @@
                 "open_issues": 11,
                 "owner": "lin-bus",
                 "repo": "linux-lin",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:14.859Z"
@@ -261,7 +261,7 @@
             "open_issues": 11,
             "owner": "lin-bus",
             "repo": "linux-lin",
-            "stars": 49,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
@@ -499,7 +499,7 @@
             "open_issues": 6,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3452,
+            "stars": 3454,
             "topics": [
               "automotive",
               "automotive-security",
@@ -541,7 +541,7 @@
             "open_issues": 0,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 980,
+            "stars": 981,
             "topics": [
               "automotive",
               "automotive-security",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:58:26.494Z",
+    "last_updated": "2026-09-07T23:39:12.469Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
