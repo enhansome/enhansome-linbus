@@ -16,7 +16,7 @@
             "language": null,
             "license": "LGPL-2.1",
             "last_commit": "2026-07-07T09:05:35Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "TOSUN-Shanghai",
             "repo": "TSMaster",
             "stars": 429,
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:28:21.256Z",
+    "last_updated": "2026-09-12T23:09:37.525Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
