@@ -33,7 +33,7 @@ This is a [LIN](http://en.wikipedia.org/wiki/Local_Interconnect_Network) protoco
 
 ## SW Tools
 
-* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) ⭐ 431 | 🐛 86 | 📅 2026-07-07 - Powerful open environment for automotive CAN and LIN bus monitoring, simulation, testing, diagnostics, calibration and so on *(Closed source)*.
+* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) ⭐ 431 | 🐛 80 | 📅 2026-07-07 - Powerful open environment for automotive CAN and LIN bus monitoring, simulation, testing, diagnostics, calibration and so on *(Closed source)*.
 
 ### Linux related
 
@@ -98,8 +98,8 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,471 | 🐛 7 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
-2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 984 | 🐛 0 | 📅 2026-08-12 also might be useful.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,473 | 🐛 7 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 986 | 🐛 0 | 📅 2026-08-12 also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 root-repo for lastest updates.
 
 <!--
@@ -140,4 +140,4 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
