@@ -402,7 +402,7 @@
             "open_issues": 2,
             "owner": "mestrode",
             "repo": "Lin-Interface-Library",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "ibs-sensor-library",
               "lin",
@@ -499,7 +499,7 @@
             "open_issues": 7,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3475,
+            "stars": 3478,
             "topics": [
               "automotive",
               "automotive-security",
@@ -541,7 +541,7 @@
             "open_issues": 0,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 987,
+            "stars": 988,
             "topics": [
               "automotive",
               "automotive-security",
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:13:16.653Z",
+    "last_updated": "2026-09-22T23:42:06.745Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
