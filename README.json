@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "sllin linux",
-          "description": null,
+          "description": "lin-bus/linux-lin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -338,7 +338,7 @@
         {
           "node_type": "item",
           "title": "Volvo LIN bus reader",
-          "description": null,
+          "description": "laurynas/volvo_linbus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -438,7 +438,7 @@
         {
           "node_type": "item",
           "title": "BMW Pierburg CWA400 waterpump LIN controller example",
-          "description": null,
+          "description": "brainiac27/cwa400_lin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -565,54 +565,13 @@
             ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Please follow this",
-          "description": "root-repo for lastest updates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
-            "homepage": null,
-            "id": 344925173,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2023-09-06T06:49:15Z",
-            "open_issues": 1,
-            "owner": "iDoka",
-            "repo": "awesome-linbus",
-            "stars": 245,
-            "topics": [
-              "arduino",
-              "automotive",
-              "awesome",
-              "awesome-list",
-              "car-hacking",
-              "embedded",
-              "iso17987",
-              "iso9141",
-              "lawicel",
-              "ldf",
-              "lin",
-              "lin-bus",
-              "lin-utils",
-              "local-interconnect-network",
-              "logger",
-              "raspberry-pi",
-              "slcan",
-              "socketlin",
-              "stm32"
-            ]
-          },
-          "first_seen": "2026-08-28T05:32:14.859Z"
         }
       ],
       "title": "Footnotes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:36:51.882Z",
+    "last_updated": "2026-10-03T04:53:54.180Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",

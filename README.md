@@ -1,8 +1,8 @@
 # Awesome LIN Bus with stars
 
-[![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-linbus)](https://GitHub.com/iDoka/awesome-linbus/stargazers/) ⭐ 245 | 🐛 1 | 📅 2023-09-06
-[![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-linbus)](https://GitHub.com/iDoka/awesome-linbus/network/) ⭐ 245 | 🐛 1 | 📅 2023-09-06
-[![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-linbus/)](https://GitHub.com/iDoka/awesome-linbus/watchers/) ⭐ 245 | 🐛 1 | 📅 2023-09-06
+[![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-linbus)](https://GitHub.com/iDoka/awesome-linbus/stargazers/)
+[![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-linbus)](https://GitHub.com/iDoka/awesome-linbus/network/)
+[![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-linbus/)](https://GitHub.com/iDoka/awesome-linbus/watchers/)
 
 <p align="center"><img src="https://github.com/iDoka/awesome-linbus/raw/main/lin_logo.png" alt="LIN logo" width="300" heigth="150"/></p>
 
@@ -13,7 +13,7 @@ This list helps a reverse engineering LIN bus devices with lightly specializing 
 > **Note**
 > Items marked as "🔝" are highly recommended.
 
-Permanent URL to this list: <https://github.com/iDoka/awesome-linbus> ⭐ 245 | 🐛 1 | 📅 2023-09-06
+Permanent URL to this list: <https://github.com/iDoka/awesome-linbus>
 
 ## Contents
 
@@ -100,7 +100,7 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,491 | 🐛 8 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 990 | 🐛 0 | 📅 2026-08-12 also might be useful.
-3. Please follow [this](https://github.com/iDoka/awesome-linbus) ⭐ 245 | 🐛 1 | 📅 2023-09-06 root-repo for lastest updates.
+3. Please follow [this](https://github.com/iDoka/awesome-linbus) root-repo for lastest updates.
 
 <!--
 ## Tags
