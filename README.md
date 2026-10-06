@@ -98,7 +98,7 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,493 | 🐛 8 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,492 | 🐛 9 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 993 | 🐛 0 | 📅 2026-08-12 also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-linbus) root-repo for lastest updates.
 
@@ -140,4 +140,4 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
