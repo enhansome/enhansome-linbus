@@ -206,10 +206,18 @@
             "stars": 92,
             "topics": [
               "automotive",
+              "bus-sniffer",
+              "can-bus",
+              "car-hacking",
               "j2602",
+              "kicad",
               "lin",
               "lin-bus",
-              "open-hardware"
+              "open-hardware",
+              "slcan",
+              "socketcan",
+              "stm32",
+              "usb"
             ]
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
@@ -496,10 +504,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-07T22:14:43Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3509,
+            "stars": 3510,
             "topics": [
               "automotive",
               "automotive-security",
@@ -541,7 +549,7 @@
             "open_issues": 1,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 1000,
+            "stars": 1002,
             "topics": [
               "automotive",
               "automotive-security",
@@ -571,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:45:31.564Z",
+    "last_updated": "2026-10-17T23:18:42.754Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
