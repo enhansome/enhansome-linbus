@@ -66,7 +66,7 @@ SLLIN protocol - that is like slcan protocol for linux based OS.
 
 * [macchina LIN](https://github.com/macchina/LIN) ⭐ 123 | 🐛 8 | 🌐 C++ | 📅 2019-01-29 - Arduino library to add dual LIN support on SAM3X based boards.
 
-* [Volvo LIN bus reader](https://github.com/laurynas/volvo_linbus) ⭐ 113 | 🐛 6 | 🌐 C++ | 📅 2020-12-25
+* [Volvo LIN bus reader](https://github.com/laurynas/volvo_linbus) ⭐ 112 | 🐛 6 | 🌐 C++ | 📅 2020-12-25
 
 * [open-LIN](https://github.com/open-LIN/open-LIN-c) ⭐ 92 | 🐛 2 | 🌐 C++ | 📅 2025-05-01 - Implementation of Local interconnect network in C.
 
@@ -140,4 +140,4 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
