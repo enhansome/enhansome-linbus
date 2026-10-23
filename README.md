@@ -33,7 +33,7 @@ This is a [LIN](http://en.wikipedia.org/wiki/Local_Interconnect_Network) protoco
 
 ## SW Tools
 
-* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) ⭐ 439 | 🐛 82 | 📅 2026-07-07 - Powerful open environment for automotive CAN and LIN bus monitoring, simulation, testing, diagnostics, calibration and so on *(Closed source)*.
+* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) ⭐ 440 | 🐛 82 | 📅 2026-07-07 - Powerful open environment for automotive CAN and LIN bus monitoring, simulation, testing, diagnostics, calibration and so on *(Closed source)*.
 
 ### Linux related
 
@@ -48,7 +48,7 @@ This is a [LIN](http://en.wikipedia.org/wiki/Local_Interconnect_Network) protoco
 ## Hardware
 
 * [linbus](https://github.com/zapta/linbus) ⭐ 212 | 🐛 30 | 🌐 Eagle | 📅 2019-03-01 - Arduino based LINBUS stack and signal interceptor/injector.
-* [LinUSBConverter](https://github.com/uCAN-LIN/LinUSBConverter) ⭐ 92 | 🐛 10 | 🌐 C | 📅 2026-10-12 - LIN to USB converter with LIN master support compatible with SLCAN.
+* [LinUSBConverter](https://github.com/uCAN-LIN/LinUSBConverter) ⭐ 92 | 🐛 10 | 🌐 C | 📅 2026-10-23 - LIN to USB converter with LIN master support compatible with SLCAN.
 * [linbus-phat](https://github.com/cepr/linbus-phat) ⭐ 10 | 🐛 0 | 📅 2019-01-11 - LIN Bus interface for Raspberry PI Zero.
 * [budgetcan](https://github.com/ryedwards/budgetcan_fw#how-to-use-the-lin-driver) - Firmware to support gs\_usb on most STM32 devices with LIN bus support.
 
@@ -66,7 +66,7 @@ SLLIN protocol - that is like slcan protocol for linux based OS.
 
 * [macchina LIN](https://github.com/macchina/LIN) ⭐ 123 | 🐛 8 | 🌐 C++ | 📅 2019-01-29 - Arduino library to add dual LIN support on SAM3X based boards.
 
-* [Volvo LIN bus reader](https://github.com/laurynas/volvo_linbus) ⭐ 112 | 🐛 6 | 🌐 C++ | 📅 2020-12-25
+* [Volvo LIN bus reader](https://github.com/laurynas/volvo_linbus) ⭐ 111 | 🐛 6 | 🌐 C++ | 📅 2020-12-25
 
 * [open-LIN](https://github.com/open-LIN/open-LIN-c) ⭐ 92 | 🐛 2 | 🌐 C++ | 📅 2025-05-01 - Implementation of Local interconnect network in C.
 
@@ -98,8 +98,8 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,516 | 🐛 11 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
-2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 1,002 | 🐛 2 | 📅 2026-08-12 also might be useful.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,517 | 🐛 11 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 1,003 | 🐛 2 | 📅 2026-08-12 also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-linbus) root-repo for lastest updates.
 
 <!--
