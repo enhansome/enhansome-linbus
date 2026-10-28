@@ -66,7 +66,7 @@ SLLIN protocol - that is like slcan protocol for linux based OS.
 
 * [macchina LIN](https://github.com/macchina/LIN) ⭐ 123 | 🐛 8 | 🌐 C++ | 📅 2019-01-29 - Arduino library to add dual LIN support on SAM3X based boards.
 
-* [Volvo LIN bus reader](https://github.com/laurynas/volvo_linbus) ⭐ 111 | 🐛 6 | 🌐 C++ | 📅 2020-12-25
+* [Volvo LIN bus reader](https://github.com/laurynas/volvo_linbus) ⭐ 112 | 🐛 6 | 🌐 C++ | 📅 2020-12-25
 
 * [open-LIN](https://github.com/open-LIN/open-LIN-c) ⭐ 92 | 🐛 2 | 🌐 C++ | 📅 2025-05-01 - Implementation of Local interconnect network in C.
 
@@ -98,8 +98,8 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,524 | 🐛 13 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
-2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 1,007 | 🐛 2 | 📅 2026-08-12 also might be useful.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,528 | 🐛 12 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 1,006 | 🐛 2 | 📅 2026-08-12 also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-linbus) root-repo for lastest updates.
 
 <!--
@@ -140,4 +140,4 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
