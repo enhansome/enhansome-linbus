@@ -199,7 +199,7 @@
             "id": 121034228,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T06:50:26Z",
+            "last_commit": "2026-11-03T20:14:02Z",
             "open_issues": 10,
             "owner": "uCAN-LIN",
             "repo": "LinUSBConverter",
@@ -507,7 +507,7 @@
             "open_issues": 16,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3546,
+            "stars": 3548,
             "topics": [
               "automotive",
               "automotive-security",
@@ -549,7 +549,7 @@
             "open_issues": 2,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 1019,
+            "stars": 1020,
             "topics": [
               "automotive",
               "automotive-security",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:59:57.740Z",
+    "last_updated": "2026-11-04T01:33:48.566Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
@@ -591,7 +591,7 @@
       "open_issues": 1,
       "owner": "iDoka",
       "repo": "awesome-linbus",
-      "stars": 248,
+      "stars": 249,
       "topics": [
         "arduino",
         "automotive",
