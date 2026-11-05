@@ -72,7 +72,7 @@ SLLIN protocol - that is like slcan protocol for linux based OS.
 
 * [ESP32-LIN-Interface-Library](https://github.com/mestrode/Lin-Interface-Library) ⭐ 48 | 🐛 2 | 🌐 C++ | 📅 2026-02-07 - LIN-Master functions (write and request LIN-Frames via hardware UART of an ESP32.
 
-* [ESP32-openLIN](https://github.com/CW-B-W/ESP32-openLIN) ⭐ 22 | 🐛 2 | 🌐 C++ | 📅 2023-09-01 - The **open-LIN** implementation on ESP32 based on [ESP32-SoftwareLIN](https://github.com/CW-B-W/ESP32-SoftwareLIN) ⭐ 33 | 🐛 4 | 🌐 C++ | 📅 2023-09-24.
+* [ESP32-openLIN](https://github.com/CW-B-W/ESP32-openLIN) ⭐ 22 | 🐛 2 | 🌐 C++ | 📅 2023-09-01 - The **open-LIN** implementation on ESP32 based on [ESP32-SoftwareLIN](https://github.com/CW-B-W/ESP32-SoftwareLIN) ⭐ 34 | 🐛 4 | 🌐 C++ | 📅 2023-09-24.
 
 * [BMW Pierburg CWA400 waterpump LIN controller example](https://github.com/brainiac27/cwa400_lin) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-07-31
 
@@ -140,4 +140,4 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
