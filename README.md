@@ -72,7 +72,7 @@ SLLIN protocol - that is like slcan protocol for linux based OS.
 
 * [ESP32-LIN-Interface-Library](https://github.com/mestrode/Lin-Interface-Library) ⭐ 48 | 🐛 2 | 🌐 C++ | 📅 2026-02-07 - LIN-Master functions (write and request LIN-Frames via hardware UART of an ESP32.
 
-* [ESP32-openLIN](https://github.com/CW-B-W/ESP32-openLIN) ⭐ 22 | 🐛 2 | 🌐 C++ | 📅 2023-09-01 - The **open-LIN** implementation on ESP32 based on [ESP32-SoftwareLIN](https://github.com/CW-B-W/ESP32-SoftwareLIN) ⭐ 34 | 🐛 4 | 🌐 C++ | 📅 2023-09-24.
+* [ESP32-openLIN](https://github.com/CW-B-W/ESP32-openLIN) ⭐ 22 | 🐛 2 | 🌐 C++ | 📅 2023-09-01 - The **open-LIN** implementation on ESP32 based on [ESP32-SoftwareLIN](https://github.com/CW-B-W/ESP32-SoftwareLIN) ⭐ 35 | 🐛 4 | 🌐 C++ | 📅 2023-09-24.
 
 * [BMW Pierburg CWA400 waterpump LIN controller example](https://github.com/brainiac27/cwa400_lin) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-07-31
 
@@ -98,8 +98,8 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ## Footnotes
 
-1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,549 | 🐛 17 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
-2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 1,022 | 🐛 2 | 📅 2026-08-12 also might be useful.
+1. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) ⭐ 3,556 | 🐛 17 | 📅 2026-08-07 of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+2. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) ⭐ 1,024 | 🐛 2 | 📅 2026-08-12 also might be useful.
 3. Please follow [this](https://github.com/iDoka/awesome-linbus) root-repo for lastest updates.
 
 <!--
@@ -140,4 +140,4 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
