@@ -410,7 +410,7 @@
             "open_issues": 2,
             "owner": "mestrode",
             "repo": "Lin-Interface-Library",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "ibs-sensor-library",
               "lin",
@@ -438,7 +438,7 @@
             "open_issues": 2,
             "owner": "CW-B-W",
             "repo": "ESP32-openLIN",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T05:32:14.859Z"
@@ -507,7 +507,7 @@
             "open_issues": 17,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3564,
+            "stars": 3565,
             "topics": [
               "automotive",
               "automotive-security",
@@ -546,10 +546,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-12T13:39:28Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 1024,
+            "stars": 1025,
             "topics": [
               "automotive",
               "automotive-security",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:34:50.299Z",
+    "last_updated": "2026-11-15T01:11:12.206Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
