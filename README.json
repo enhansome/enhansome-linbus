@@ -19,7 +19,7 @@
             "open_issues": 82,
             "owner": "TOSUN-Shanghai",
             "repo": "TSMaster",
-            "stars": 442,
+            "stars": 443,
             "topics": [
               "adas",
               "automotive",
@@ -503,11 +503,11 @@
             "id": 313261022,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-07T22:14:43Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-16T21:47:33Z",
+            "open_issues": 3,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3567,
+            "stars": 3570,
             "topics": [
               "automotive",
               "automotive-security",
@@ -545,11 +545,11 @@
             "id": 317634009,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-12T13:39:28Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-16T18:46:09Z",
+            "open_issues": 1,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 1027,
+            "stars": 1029,
             "topics": [
               "automotive",
               "automotive-security",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T01:16:36.899Z",
+    "last_updated": "2026-11-17T04:04:55.806Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
