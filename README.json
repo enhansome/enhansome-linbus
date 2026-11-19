@@ -16,7 +16,7 @@
             "language": null,
             "license": "LGPL-2.1",
             "last_commit": "2026-10-28T02:18:13Z",
-            "open_issues": 82,
+            "open_issues": 84,
             "owner": "TOSUN-Shanghai",
             "repo": "TSMaster",
             "stars": 443,
@@ -507,7 +507,7 @@
             "open_issues": 3,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3572,
+            "stars": 3573,
             "topics": [
               "automotive",
               "automotive-security",
@@ -549,7 +549,7 @@
             "open_issues": 1,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 1029,
+            "stars": 1031,
             "topics": [
               "automotive",
               "automotive-security",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:02:56.711Z",
+    "last_updated": "2026-11-19T02:43:14.442Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
