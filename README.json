@@ -507,7 +507,7 @@
             "open_issues": 4,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3574,
+            "stars": 3578,
             "topics": [
               "automotive",
               "automotive-security",
@@ -549,7 +549,7 @@
             "open_issues": 1,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 1032,
+            "stars": 1033,
             "topics": [
               "automotive",
               "automotive-security",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T02:40:53.841Z",
+    "last_updated": "2026-11-22T01:29:15.381Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
