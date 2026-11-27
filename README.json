@@ -504,10 +504,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T21:47:33Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3587,
+            "stars": 3588,
             "topics": [
               "automotive",
               "automotive-security",
@@ -546,10 +546,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T18:46:09Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "iDoka",
             "repo": "awesome-automotive-can-id",
-            "stars": 1036,
+            "stars": 1037,
             "topics": [
               "automotive",
               "automotive-security",
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:41:46.420Z",
+    "last_updated": "2026-11-27T03:43:06.203Z",
     "original_repository_info": {
       "archived": false,
       "description": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
